@@ -220,3 +220,14 @@ MIT License - see LICENSE file for details.
 ---
 
 Built with ❤️ for the Claude Code community
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [**ai-bwrap**](https://github.com/didvc/ai-bwrap) — Run AI coding agents (Claude Code, opencode, Grok, ...) inside a bubblewrap sandbox — one wrapper, any agent.
+- [**opencode-bwrap**](https://github.com/didvc/opencode-bwrap) — Run opencode inside a bubblewrap sandbox — confine AI file access to your current working directory
+- [**agent.txtar**](https://github.com/didvc/agent.txtar) — Portable text block for giving structured context to AI agents — embed anywhere, parse anywhere
+<!-- END gh-mutual-linking -->
