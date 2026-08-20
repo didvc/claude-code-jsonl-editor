@@ -227,8 +227,8 @@ Built with ❤️ for the Claude Code community
 
 ### Related projects
 
-- [**notification-cli**](https://github.com/didvc/notification-cli) — Minimalistic Command Line Notification Application under 50 Lines
-- [**image-gallery-app**](https://github.com/didvc/image-gallery-app) — 🖼️ Modern minimalist image gallery built with Express.js and Vue.js - featuring drag & drop upload, responsive design, and clean aesthetics
-- [**node-cron-cli**](https://github.com/didvc/node-cron-cli) — Command Line Implementation for Node Cron Under 20 Lines.
-- [**YouTube-Dislike-Estimator**](https://github.com/didvc/YouTube-Dislike-Estimator) — Estimates the removed YT Dislike #BringBackDislikes
+- [**claude-email-leak-notice**](https://github.com/didvc/claude-email-leak-notice) — Claude Code plugin: warns once per session when a personal email address appears in a tool payload, so it does not end up in a commit or a pushed…
+- [**claude-chrome-multi-instance-warn**](https://github.com/didvc/claude-chrome-multi-instance-warn) — Claude Code plugin: warns once per session when a tool payload is about to launch another browser (Chrome/Playwright/Puppeteer/CDP) or fan work…
+- [**agent.txtar**](https://github.com/didvc/agent.txtar) — Portable text block for giving structured context to AI agents — embed anywhere, parse anywhere
+- [**ai-bwrap**](https://github.com/didvc/ai-bwrap) — Run AI coding agents (Claude Code, opencode, Grok, ...) inside a bubblewrap sandbox — one wrapper, any agent.
 <!-- END gh-mutual-linking -->
