@@ -4,7 +4,13 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Interactive JSONL editor for Claude Code conversation files",
-  "keywords": ["jsonl", "claude", "editor", "conversation", "interactive"],
+  "keywords": [
+    "jsonl",
+    "claude",
+    "editor",
+    "conversation",
+    "interactive"
+  ],
   "author": "Claude Code Community",
   "license": "MIT",
   "bin": {
@@ -34,5 +40,8 @@
     "@types/node": "^20.5.0",
     "typescript": "~5.8.3",
     "vite": "^4.5.0"
+  },
+  "overrides": {
+    "shell-quote": "1.9.0"
   }
 }
